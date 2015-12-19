@@ -4,6 +4,7 @@ angular.module('gifipesApp', [
   'gifipesApp.auth',
   'gifipesApp.admin',
   'gifipesApp.constants',
+  'gifipesApp.reddit',
   'ngCookies',
   'ngResource',
   'ngSanitize',
